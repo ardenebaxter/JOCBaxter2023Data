@@ -1,5 +1,5 @@
 # JOCBaxter2023Data
-Data and results for "Heterogeneous Multi-Resource Planning and Allocation under Stochastic Demand}" in INFORMS Journal on Computing.
+Data and results for "Heterogeneous Multi-Resource Planning and Allocation under Stochastic Demand" in INFORMS Journal on Computing.
 
 Release Instance_Generation holds the data for all problem instances explored in the manuscript.
 Release Solutions holds the results for computational experiments for smRmD-P.
