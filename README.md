@@ -1,5 +1,5 @@
 # JOCBaxter2023Data
-Data and results for "Heterogeneous Multi-Resource Planning and Allocation under Stochastic Demand" in INFORMS Journal on Computing. Please note that all data and results can be found at the Releases link to the right of the Github landing page.
+Data and results for "Heterogeneous Multi-Resource Planning and Allocation under Stochastic Demand" in INFORMS Journal on Computing. Please note that all data and results can be found at the Releases link to the right of the GitHub landing page.
 
 Release Instance_Generation holds the data for all problem instances explored in the manuscript.
 Release Solutions holds the results for computational experiments for smRmD-P.
